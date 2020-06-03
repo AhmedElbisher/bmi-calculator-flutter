@@ -1,0 +1,4 @@
+#Wed Jun 03 23:00:56 EET 2020
+base.0=/home/ahmed/Desktop/save/angela/bmi-calculator-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
