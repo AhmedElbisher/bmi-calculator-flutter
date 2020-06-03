@@ -1,5 +1,5 @@
 # BMI Calculator 
->this app calculates Body mass index (BMI) that is a measure of body fat based on height and weight that applies to adult men and women. this app is part of **Complete Flutter App Development Bootcamp with Dart** full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>this app calculates Body mass index (BMI) that is a measure of body fat based on height and weight that applies to adult men and women. this app is part of **Complete Flutter App Development Bootcamp with Dart**  [course](https://www.appbrewery.co/).
 
 ## General Info
 
