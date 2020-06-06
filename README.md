@@ -1,8 +1,8 @@
 # BMI Calculator 
->this app calculates Body mass index (BMI) that is a measure of body fat based on height and weight that applies to adult men and women. this app is part of **Complete Flutter App Development Bootcamp with Dart**  [course](https://www.appbrewery.co/).
+>this app calculates Body mass index (BMI) that is a measure of body fat based on height and weight that applies to adult men and women.
 
-## General Info
+## Inspiration
+this  app inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator) and [ Complete Flutter Development Bootcamp](https://www.appbrewery.co/)
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
